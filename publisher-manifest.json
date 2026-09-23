@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "db019c80cb50ba0bc4af770f",
+  "owner": "amjgaa",
+  "repo": "page-a4e587ff15c67337cc20fb52",
+  "title": "WhyGate",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a4e587ff15c67337cc20fb52",
+      "a": "WhyGate",
+      "b": "2027官方最新地址导航",
+      "entity": "WhyGate",
+      "brand": "WhyGate",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8fc8f78e12d2a031fe47545480c0cc2e21fb0c176927268ab8dced20b5b6b602",
+      "content": {
+        "primary_entity": "WhyGate",
+        "keyword1": "WhyGate",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择适配客户端，下载后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 WhyGate",
+          "AI_DESCRIPTION": "，WhyGate 提供基础版、旗舰版与团队版三档套餐，分别对应 100GB、300GB 与 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版与团队版提供 IPLC 专线与 VIP 高带宽节点，适合流媒体与游戏加速场景。按年付比月付更划算，选择套餐后依据客户端文档配置订阅即可。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度了解 WhyGate。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "单人或双人使用可选基础版；需要流媒体解锁与游戏加速可选旗舰版；团队协作或设备较多时选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "套餐流量与设备",
+          "AI_FEATURE_TITLE_2": "按场景选套餐",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按三步完成 WhyGate 服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "三步配置指引",
+          "AI_HERO_INTRO": "WhyGate 是一款海外网络加速服务，提供多档套餐与客户端支持。基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。按年付可节省费用，配置订阅后即可在所选设备上使用。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "按年付最高节省约两个月费用",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版平衡流量与专线体验，团队版满足多设备高流量需求。年付价格更优惠，可按设备数量与月流量选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，确保所选客户端支持当前设备。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档完成订阅导入，保存配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "WhyGate 海外加速服务",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐切换与付费周期。",
+          "AI_FAQ_QUESTION_1": "WhyGate 各套餐支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。若需要在多台设备间切换使用，可根据实际设备数量选择更高档位。",
+          "AI_FAQ_QUESTION_2": "按年付与按月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "按年付相比月付有价格优惠，基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年。适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在 WhyGate 获取订阅链接后，打开对应设备的客户端，找到订阅管理或添加订阅功能，粘贴链接并保存，更新节点列表后选择线路连接即可。",
+          "AI_FAQ_QUESTION_4": "旗舰版与基础版的线路有什么不同？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用 IPLC 专线，针对游戏加速和流媒体访问进行优化，并支持全节点原生流媒体解锁。基础版使用普通线路节点池，适合日常浏览。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "可根据当前套餐剩余流量和设备需求申请升级或调整，具体规则与价格差异以实际页面说明为准。团队版还提供定制路由与专属客户经理支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iqopuf.cn",
+    "host": "iqopuf.cn"
+  },
+  "file_hashes": {
+    "index.html": "180f0844c3aea6d8bad57b782a3b4bb8cf237d57755cfce4b41b26c4187d7be8",
+    "sitemap.xml": "a062117ca13d0162b5aa38cea41cdff137b65320f236bdc0570dcbfc0f3f46e4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e7ea4033429a7e24480bd1088228d7357096aba126b90bc211fa4f34ddf363d3",
+    "robots.txt": "725315cd551a63c32c3284ff026e0f033f0082003229912683187f640f914f86",
+    "779feac2006eaf9408e3584f414c1da8.txt": "709a53a2af7ad9b8b90cc855450655807fafe5c991af701a63b386e18306a930"
+  },
+  "revision": "3dffe2ddb2f32ac95515548a0fcd49d668f15fbb28da96ba557a75900eb7c435"
+}
